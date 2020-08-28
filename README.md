@@ -1,4 +1,3 @@
-# sistemasolar
 
 # Sistema Solar Descriptions
 
